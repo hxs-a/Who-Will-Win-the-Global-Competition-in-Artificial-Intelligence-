@@ -11,9 +11,4 @@ A comprehensive six-dimensional analysis and prediction system for assessing AI 
 - **Comprehensive Visualizations**: 9-panel dashboard, heatmaps, radar charts, trend analysis
 - **Strategic Insights**: Country rankings, growth trajectories, recommendations
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ai-competitiveness-system.git
-cd ai-competitiveness-system
